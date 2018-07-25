@@ -1,6 +1,8 @@
 /BodyPartQuiz.class
 /DrumKit.class
 /DuelingButtons.class
+/ForTuneCooKie.class
+/Jack.class
 /MyFirstSwingGUI.class
 /PhotoQuiz.class
 /Recipes.html
@@ -10,9 +12,11 @@
 /cymbal.wav
 /drum.wav
 /extra/
+/home.wav
 /homer-woohoo.wav
 /jack.jpeg
 /jackInTheBox.png
+/jackInTheBox2.png
 /java.png
 /leonardo.jpeg
 /morgan.jpeg
@@ -20,7 +24,12 @@
 /sawing-wood-daniel_simon.wav
 /scream.mp3
 /snare.jpg
-/ForTuneCooKie.class
-/Jack.class
-/jackInTheBox2.png
-/home.wav
+/SoundEffectMachine.class
+/SoundEffect.class
+/ Yelling.wav
+/Frying.wav
+/Scream.wav
+/hair.wav
+/Fry.wav
+/steak.wav
+/CutenessTV.class

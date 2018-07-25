@@ -31,6 +31,8 @@ public class ForTuneCooKie implements ActionListener {
 		JButton button = new JButton();
 		frame.add(button);
 		button.addActionListener(this);
+		frame.pack();
+
 	}
 
 	@Override
